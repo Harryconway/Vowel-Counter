@@ -1,0 +1,19 @@
+.main {
+  display: grid;
+  justify-content: center;
+}
+.container,
+.btn-primary {
+  margin: 20px;
+  display: grid;
+  justify-content: center;
+}
+.title {
+  font-size: 64px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.input-text,
+.result {
+  text-align: center;
+  font-size: 24px;
+}
